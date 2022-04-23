@@ -1,6 +1,6 @@
 # Blue Pidgeon Photography website built with HTML, CSS, and JavaScript
 
-[Live Demo](https://wonderful-wright-142fc3.netlify.app/)
+[Live Demo](https://blue-pidgeon-photography.netlify.app/)
 
 ### Technology Used
 -   Vanilla JavaScript
